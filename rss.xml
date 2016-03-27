@@ -4,7 +4,7 @@
         <description><![CDATA[Gestión Corporativa de Proyectos]]></description>
         <link>https://thegrid.ai/pmo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 02:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 02:40:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pmo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/pmo/24a64bb7-1096-4907-9b61-1c370ce490f1/index.html</link>
             <guid isPermaLink="false">24a64bb7-1096-4907-9b61-1c370ce490f1</guid>
             <pubDate>Sun, 27 Mar 2016 02:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PMO]]></title>
-            <description><![CDATA[<h1>PMO</h1>]]></description>
-            <link>https://thegrid.ai/pmo/pmo/index.html</link>
-            <guid isPermaLink="false">08c7759b-f758-4315-8d13-6aab76abc0dc</guid>
-            <pubDate>Sun, 27 Mar 2016 02:29:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
