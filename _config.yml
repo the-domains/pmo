@@ -1,41 +1,41 @@
+name: PMO
+favicon: null
+layout_spectrum: 0.5035842
+typography_spectrum: 0.47949
 title: Gestión Corporativa de Proyectos
-purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4605735
-  brandStrength: 1
-  lightness: 0.6487455
-  brandColors:
-    - '#34332F'
-    - '#98958C'
-    - '#585752'
-    - '#C5C4BC'
-    - '#E6E6DA'
-  rhythmicContrast: 0.8905667
+    permalink:
+      path: '/:title/'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: PMO
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.47949
-layout_spectrum: 0.5035842
+color:
+  brandColors:
+    - '#ffffff'
+    - '#111119'
+    - '#3f3e44'
+    - '#adbacb'
+    - '#7d8da6'
+  brandStrength: 1
+  lightness: 0.6487455
+  saturation: 0.4605735
+  rhythmicContrast: 0.8905667
+purpose: []
